@@ -1,0 +1,3 @@
+[submodule "lib/plax"]
+	path = lib/plax
+	url = https://github.com/cameronmcefee/plax.git

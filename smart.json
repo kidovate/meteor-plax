@@ -1,0 +1,9 @@
+{
+  "name": "plax",
+  "description": "The plax parallax library.",
+  "homepage": "http://www.cameronmcefee.com/plax/",
+  "author": "Cameron McEffe",
+  "version": "1.2.1",
+  "git": "https://github.com/kidovate/meteor-plax.git",
+  "packages": {}
+}
